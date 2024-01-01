@@ -1,3 +1,20 @@
+🌟 Skills and Projects I'm Crafting in 2024 🌟
+--------------------------------------------
+
+🔒 **Secure Servers & Automation** for AI Endeavors
+🧠 **Enhanced AI Logic** through Advanced Coding
+🗣️ **Text-to-Speech Innovations**
+🤖 **Assistants API**: Revolutionizing Interaction
+🌐 **Custom GPTs**: Tailored AI Experiences
+🗨️ **Language Learning Chatbot**: Bridging Communication Gaps
+🔧 **AI Project with 10 Interchangeable Tools**: Versatility Unleashed
+🐍 **Python Mastery**: Coding with Elegance
+📟 **JavaScript Expertise**: Crafting Dynamic Solutions
+👨‍💻 **devmik.ai**: Redefining AI Development
+
+"Diving into the future of AI, one project at a time." 🚀
+
+
 # Chatbot UI
 
 Chatbot UI is an open source chat UI for AI models.
